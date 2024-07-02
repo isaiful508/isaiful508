@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/fM9zH2M/S.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Md. Saiful Islam</h1>
-<h3 align="center">a frontend developer from Bangladesh. Passionate about creating dynamic and responsive web applications.</h3>
+<h3 align="center">A frontend developer from Bangladesh, passionate about creating dynamic, responsive web applications using modern technologies. Always eager to learn and improve my skills.</h3>
 
 - 🌱 I’m currently learning **Next Js, Redux**
 
@@ -59,4 +59,4 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
+![Saiful's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
