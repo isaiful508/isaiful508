@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, Redux**
 
-- 👨‍💻 All of my projects are available at [https://saiful-protfolio.web.app/](https://saiful-protfolio.web.app/)
+- 👨‍💻 Here is my protfolio at [https://saiful-protfolio.web.app/](https://saiful-protfolio.web.app/)
 
 - 💬 Ask me about **react.js**
 
@@ -59,7 +59,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiful508&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiful508&show_icons=true&theme=vision-friendly-dark)
 
