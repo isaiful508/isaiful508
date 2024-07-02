@@ -59,4 +59,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-![Saiful's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiful508&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiful508&show_icons=true&theme=vision-friendly-dark)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=isaiful508&theme=dark)
