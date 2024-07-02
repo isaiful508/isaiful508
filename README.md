@@ -60,6 +60,9 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiful508&show_icons=true&theme=vision-friendly-dark)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isaiful508&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiful508&layout=compact&theme=vision-friendly-light)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiful508&show_icons=true&theme=vision-friendly-light)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=isaiful508&theme=light)
