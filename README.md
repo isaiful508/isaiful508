@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react.js**
 
-- 📫 How to reach me **isaiful.islam508@gamil.com**
+- 📫 How to reach me **isaiful.islam508@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17iWiV14vbhaVzPlC-yH5C1X3M34t1Jsj/view?usp=sharing](https://drive.google.com/file/d/17iWiV14vbhaVzPlC-yH5C1X3M34t1Jsj/view?usp=sharing)
 
