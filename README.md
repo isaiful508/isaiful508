@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Md. Saiful Islam</h1>
 <h3 align="center">A frontend developer from Bangladesh, passionate about creating dynamic, responsive web applications using modern technologies. Always eager to learn and improve my skills.</h3>
 
-- 🌱 I’m currently learning **Next Js, Redux**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 👨‍💻 Here is my protfolio at [https://saiful-protfolio.web.app/](https://saiful-protfolio.web.app/)
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **isaiful.islam508@gmail.com**
 
