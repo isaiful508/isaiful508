@@ -136,6 +136,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiful508)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=isaiful508&theme=light)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaiful508&theme=github-light)
